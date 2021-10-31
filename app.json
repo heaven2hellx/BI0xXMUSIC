@@ -1,9 +1,9 @@
 {
-  "name": "VCPlayBot",
-  "logo": "https://telegra.ph/file/7ffa8d18b9b7f1b51a81e.jpg",
-  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
+  "name": "ɮɨ0 x✘",
+  "logo": "https://telegra.ph/file/cb45b1b9c1e30a7eac7e1.jpg",
+  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by ɮɨ0 x✘.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/QueenArzoo/VCPlayBot",
+  "repository": "https://github.com/heaven2hellx/BI0xXMUSIC",
   "stack": "container",
   "buildpacks": [
    {
@@ -26,17 +26,17 @@
     "BOT_NAME": {
       "description": "Your MusicPlayer Bot Name.",
       "required": false,
-      "value": ""
+      "value": "ɮɨ0 x✘"
     },
     "SUPPORT_GROUP": {
       "description": "Your MusicPlayer support group without @ [Leave this if you don't have one]",
       "required": false,
-      "value": "AwesomeSupport"
+      "value": "BI0xX_NETWORK"
     },
     "PROJECT_NAME": {
       "description": "Your MusicPlayer project Name.",
       "required": false,
-      "value": "VCPlayBot2.0"
+      "value": "ɮɨ0 x✘"
     },
     "ASSISTANT_NAME": {
       "description": "Your MusicPlayer's assistant Username without @.",
@@ -45,17 +45,17 @@
     "ARQ_API_KEY": {
       "description": "Get from @ARQRobot.",
       "required": false,
-      "value": "VKSSQH-SRNJYZ-MSOJAI-QALESR-ARQ"
+      "value": "UWTFTO-OEVTTB-QYVIMH-PRNDIX-ARQ"
     },    
     "BG_IMAGE": {
-      "description": "BG image of bot (Use transparent one) [IGNORE].",
+      "description": "BG image of bot [IGNORE].",
       "required": false,
       "value": "https://telegra.ph/file/9b13ea3ce046a1a5c8098.png"
     },     
     "UPDATES_CHANNEL": {
       "description": "Updates Channel without @ [Leave this if you don't have one].",
       "required": false,
-      "value": "LaylaList"
+      "value": "BI0xX_NETWORK"
     },    
     "API_ID": {
       "description": "App ID from my.telegram.org/apps",
