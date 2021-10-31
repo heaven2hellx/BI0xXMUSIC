@@ -39,7 +39,7 @@ async def cbstart(_, query: CallbackQuery):
                         "📣 Official Channel", url=f"https://t.me/{UPDATES_CHANNEL}")
                 ],[
                     InlineKeyboardButton(
-                        "🧪 Source Code 🧪", url="https://github.com/heaven2hellx/BI0xXMUSIC"
+                        "🎧 ɮɨ0 Ӽ✘ օառɛʀ 🎧", url="https://t.me/SOUL_BI0xX"
                     )
                 ]
             ]
